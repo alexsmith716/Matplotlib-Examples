@@ -11,8 +11,10 @@ Jupyter notebooks in JupyterLab.
 * ipykernel
 * Matplotlib
 * NumPy
+* pandas
+* Requests
 
 
 ## TODO:
 * Add bigger and better notebooks.
-* Find a dataset (probably the NYC bridge ratings CSV), analyze the data, decide on some logical statistic to extract and present that data visually.
+* Add tests.
